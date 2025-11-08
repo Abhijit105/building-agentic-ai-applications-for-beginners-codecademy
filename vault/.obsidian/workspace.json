@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "d9b956ac13e2280c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4cffbf7e557cc91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76161c3c7ebc1039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python"
+            }
+          },
+          {
+            "id": "2ea13a7c2a0fbda5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "variables and keywords.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "variables and keywords"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "58d08283caa9229f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a95426b6ab96e998",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81420a961b85caf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b457f3f6a3453d8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a75b314edd29111b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b760a5674e1b84b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6e9a3a57cf4e3b1f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "73cb12838a013559",
+    "type": "split",
+    "children": [
+      {
+        "id": "40f2842e5b726769",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f494dabe99c7470d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "variables and keywords.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for variables and keywords"
+            }
+          },
+          {
+            "id": "6a729a2e26039c45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "variables and keywords.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from variables and keywords"
+            }
+          },
+          {
+            "id": "dd5c72c56f144900",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "915002d92f84df83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "variables and keywords.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of variables and keywords"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2ea13a7c2a0fbda5",
+  "lastOpenFiles": [
+    "AI/AI.md",
+    "variables and keywords.md",
+    "Python.md",
+    "AI/GAI.md",
+    "Python",
+    "ML.md",
+    "LLM.md",
+    "AI/NLP.md",
+    "AI/ML.md",
+    "AI/LLM.md",
+    "AI/DL.md",
+    "AI",
+    "AI.md",
+    "GAI.md",
+    "DL.md",
+    "NLP.md"
+  ]
+}
