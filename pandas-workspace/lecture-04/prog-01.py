@@ -1,5 +1,32 @@
 import numpy as np
+import pandas as pd
 
-a = np.list[1, 2, 3, 4]
+df = pd.read_csv("./churn-modelling.csv")
+print(type(df))
+print(df)
+print(df.head())
+print(df.head(10))
+print(df.tail())
+print(df.tail(10))
+print("Information:-")
+print(df.info())
+print("Describe:-")
+print(df.describe())
+print("columns")
+print(df.columns)
+print("transpose")
+print(df.T)
+print("sort on age")
+print(df.sort_values('Age'))
+print(df.sort_values('Age', ascending=False))
+# print(df.sort_values('Age', inplace=True))
+print("rows")
+print(df[2:4])
+print("filtering")
+print(df[df.CreditScore > 700])
+print("distribution")
+print(df.Exited.value_counts())
+
+a = np.array([1, 2, 3, 4])
 
 print(a)
